@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Conversor Real</string>
+    <string name="value">Valor</string>
+    <string name="dolar">Dolar</string>
+    <string name="euro">Euro</string>
+    <string name="vl_convert">Valor que deseja converter</string>
+    <string name="vl_dollar">Valor da cotação do dolar</string>
+    <string name="vl_euro">Valor da cotação do euro</string>
+    <string name="price_in_dollar">Cotação em dolar</string>
+    <string name="real_sign">R$ :</string>
+    <string name="price_in_euro">Cotação em euro</string>
+    <string name="calculate">CALCULAR</string>
+    <string name="no_validated">Preencha todos os campos.</string>
+</resources>
